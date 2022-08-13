@@ -1,2 +1,2 @@
 # simple_shell
-Our files
+Our files on Simple shell  involving collaboration
